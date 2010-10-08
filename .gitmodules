@@ -1,0 +1,36 @@
+[submodule "js/submodules/jquery"]
+	path = js/submodules/jquery
+	url = git://github.com/jquery/jquery.git
+[submodule "js/submodules/mustache"]
+	path = js/submodules/mustache
+	url = git://github.com/janl/mustache.js.git
+[submodule "js/submodules/jquery-ui"]
+	path = js/submodules/jquery-ui
+	url = git://github.com/jquery/jquery-ui.git
+[submodule "js/submodules/yui3"]
+	path = js/submodules/yui3
+	url = git://github.com/yui/yui3.git
+[submodule "js/submodules/underscore"]
+	path = js/submodules/underscore
+	url = git://github.com/documentcloud/underscore.git
+[submodule "js/submodules/raphael"]
+	path = js/submodules/raphael
+	url = git://github.com/DmitryBaranovskiy/raphael.git
+[submodule "js/submodules/protovis"]
+	path = js/submodules/protovis
+	url = git://github.com/mbostock/protovis.git
+[submodule "js/submodules/modernizr"]
+	path = js/submodules/modernizr
+	url = git://github.com/Modernizr/Modernizr.git
+[submodule "js/submodules/hasjs"]
+	path = js/submodules/hasjs
+	url = git://github.com/phiggins42/has.js.git
+[submodule "css/submodules/blueprint"]
+	path = css/submodules/blueprint
+	url = git://github.com/joshuaclayton/blueprint-css.git
+[submodule "css/submodules/960gs"]
+	path = css/submodules/960gs
+	url = git://github.com/bauhouse/fluid960gs.git
+[submodule "js/submodules/lessjs"]
+	path = js/submodules/lessjs
+	url = git://github.com/cloudhead/less.js.git
